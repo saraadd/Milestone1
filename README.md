@@ -19,7 +19,7 @@ Prosjektet har som mål å levere en profesjonell og brukervennlig nettside med 
 
 ## Teknologier og Verktøy
 
-- **Plattform:** WordPress (versjon X.X)  
+- **Plattform:** WordPress
 - **Språk:** HTML og CSS
-- **Verktøy:** Git og GitHub for versjonskontroll og samarbeid
+- **Verktøy:** Github og Discord for samarbeid og utvikling.
 
