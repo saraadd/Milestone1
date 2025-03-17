@@ -1,4 +1,4 @@
-# GreenCode WordPress Prosjekt
+# Greencodify prosjekt
 
 Dette repositoryet inneholder kildekoden, tilpasninger og dokumentasjonen for GreenCode-prosjektet. Selv om selve nettsiden bygges med WordPress, brukes GitHub for å spore endringer, utvikle eventuelle custom temaer og plugins, og dokumentere konfigurasjonsvalg.
 
