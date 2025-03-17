@@ -6,7 +6,7 @@ Dette repositoryet inneholder kildekoden, tilpasninger og dokumentasjonen for Gr
 
 Prosjektet har som mål å levere en profesjonell og brukervennlig nettside med responsivt design og skalerbarhet. Løsningen baseres på WordPress, men vi har implementert tilpassede elementer for å møte spesifikke krav fra kunden. GitHub fungerer som et sentralt verktøy for versjonskontroll og prosjektadministrasjon.
 
-## Innhold i Repositoryet
+## Innhold
 
 - **Custom Tema og Plugins:**  
   Kode for alle tilpasninger, inkludert et custom tema og eventuelle plugins som er utviklet for prosjektet.
